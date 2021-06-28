@@ -6,24 +6,23 @@
 
 <img src='images/FineGPR.png'/>
 
-<div align="center">
-    <img src="images/logo.png">
 </div> 
 
 ## Dataset 
 ### Some Mainstream Datasets for Person Re-Identification
-For GPR+ (for details of the subset GPR+ please refer to the [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
+For FineGPR (for details of the subset FineGPR please refer to the [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
 
 <center>
 
 | dataset      | IDs     | boxs | cams | weathers | illumination | scene |
-|--------------|---------|------|------|----------|--------------|
+|--------------|---------|------|------|----------|--------------|--------------|
 | [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490) | 1,501 | 32,668    | 6      |   -             | -         | -         | 
 | [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) | 1,404 | 36,411    | 8          | -              | -         | -         |  
 | [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421) | 1,467 | 14,096    | 2          | -              | -         | -         |  
-|--------------|---------|------|------|----------|--------------|
+|--------------|---------|------|------|----------|--------------|--------------|
 | [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 | 100,000    | 250     |   -             | -         | -         |  
-| [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 | 1,680,000    | 100          | -              |     140     | -          |  
-| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,467 | 14,096    | 1,266          | -              | -         | 6         |  
-| [FineGPR]() | 1150    | 2,028,600    | 36          | 7             |     7       | 9            |
+| [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 | 1,680,000    | 100          | -          |     140     | -         |  
+| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 | 273,456    | 36        | -          | -         | 6         |
+| [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 | 1,801,816    | 19       | -          | 6         |11          |  
+| [FineGPR]() | 1150    | 2,028,600    | 36        | 7         |     7       | 9          |
 </center>
