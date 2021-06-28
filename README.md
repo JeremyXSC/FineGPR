@@ -72,3 +72,41 @@ Taking "0001_c01_w01_l01_p01.jpg" as an example:
 *  w01   is the id of the weather
 *  l01   is the id of the illumination
 *  p01   is the id of the background
+
+Weather annotations 
+```shell
+FineGPR
+├── w01：Sunny
+├── w02：Clouds    
+├── w03：Overcast
+├── w04：Foggy   
+├── w05：Neutral
+├── w06：Blizzard 
+└── w07：Snowlight 	   
+```
+
+Illumination annotations
+```shell
+FineGPR
+├── l01：Midnight
+├── l02：Dawn    
+├── l03：Forenoon
+├── l04：Noon   
+├── l05：Afternoon
+├── l06：Dusk 
+└── l07：Night 	   
+```
+
+Scene annotations
+```shell
+FineGPR
+├── p01：Urban
+├── p02：Urban   
+├── p03：Wild
+├── p04：Urban   
+├── p05：Wild
+├── p06：Urban
+├── p07：Urban
+├── p08：Wild 
+└── p09：Urban 	   
+```
