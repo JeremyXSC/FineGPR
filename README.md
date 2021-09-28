@@ -16,7 +16,6 @@ Our FineGPR dataset provides fine-grained and accurately configurable annotation
 - [Citation](#Citation)
 
 
-
 ****
 ## Comparison with existing datasets 
 ### Some Mainstream Datasets for Person Re-Identification
@@ -43,14 +42,14 @@ For FineGPR (for details of the pervious related work, please refer to the [GPR 
 
 ## Link of the Dataset
 ### Data of FineGPR for Viewpoint Analysis
-A small subset of FineGPR can be downloaded from the following links:<br>
+#### A small subset of FineGPR can be downloaded from the following links:<br>
 * Baidu Yun Drive: 
 	* Coming soon [link]()
 * Google Drive: 
 	* Coming soon [link]()
 
 
-Directories & Files of images
+#### Directories & Files of images
 ```shell
 FineGPR_v1
 ├── 0001/ # this number is coresponds with the IDs of different images.
@@ -67,7 +66,7 @@ FineGPR_v1
 └── readme.txt
 ```
 
-Name of the image
+#### Name of the image
 
 Taking "0001_c01_w01_l01_p01.jpg" as an example: 
 *  0001 is the id of the person
