@@ -42,9 +42,9 @@ For FineGPR (for details of the subset FineGPR please refer to the [GPR Homepage
 ### Data of FineGPR for Viewpoint Analysis
 3D identetie models of GTA5 and images of FineGPR can be downloaded from the following links:<br>
 * Baidu Yun Drive: 
-	* 3d model of person [link]()
+	* Coming soon [link]()
 * Google Drive: 
-	* 3d model of person [link]()
+	* Coming soon [link]()
 
 
 Directories & Files of images
