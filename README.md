@@ -5,8 +5,11 @@ weathers,illuminations and backgrounds. <br> <br>
 
 Our FineGPR dataset provides fine-grained and accurately configurable annotations, including 36 different viewpoints,
 7 different kinds of weathers, 7 different kinds of illuminations, and 9 different kinds of backgrounds.
-
 <img src='images/FineGPR.png'/>
+
+The distributions of attributes at the identity level on FineGPR. The left figure shows the numbers of IDs for each
+attribute. The middle and right pies illustrate the distribution of the colors of upper-body and low-body clothes respectively.
+<img src='images/attribute.png'/>
 
 </div> 
 
@@ -75,7 +78,7 @@ Taking "0001_c01_w01_l01_p01.jpg" as an example:
 *  l01   is the id of the illumination
 *  p01   is the id of the background
 
-Viewpoint annotations 
+#### Viewpoint annotations 
 ```shell
 FineGPR
 ├── c01：90°      ├── c10：180°      ├── c19：270°      ├── c28：0°
@@ -89,7 +92,7 @@ FineGPR
 └── c09：170°     └── c18：260°      └── c27：350°      └── c36：80°
 ```
 
-Weather annotations 
+#### Weather annotations 
 ```shell
 FineGPR
 ├── w01：Sunny
@@ -101,7 +104,7 @@ FineGPR
 └── w07：Snowlight 	   
 ```
 
-Illumination annotations
+#### Illumination annotations
 ```shell
 FineGPR
 ├── l01：Midnight
@@ -113,7 +116,7 @@ FineGPR
 └── l07：Night 	   
 ```
 
-Scene annotations
+#### Scene annotations
 ```shell
 FineGPR
 ├── p01：Urban
