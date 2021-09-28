@@ -12,9 +12,9 @@ Our FineGPR dataset provides fine-grained and accurately configurable annotation
 
 ## Table of Contents
 - [Comparison with existing datasets](#Comparision-with-existing-datasets)
-- [Link of the Dataset (coming soon)]()
-- [Instructions of the System](#instructions-of-the-system)
-- [Guide of Getting Images](#guide-of-getting-images)
+- [Link of the Dataset (coming soon)](#Link of the Dataset)
+- [Citation](#citation)
+
 
 ****
 ## Comparison with existing datasets 
@@ -111,4 +111,15 @@ FineGPR
 ├── p07：Urban
 ├── p08：Wild 
 └── p09：Urban 	   
+```
+
+## Citation
+If you use our FineGPR dataset for your research, please cite our [paper](https://arxiv.org/pdf/2109.10498.pdf).
+```
+@article{xiang2021less,
+  title={Less is More: Learning from Synthetic Data with Fine-grained Attributes for Person Re-Identification},
+  author={Xiang, Suncheng and You, Guanjie and Guan, Mengyuan and Chen, Hao and Wang, Feng and Liu, Ting and Fu, Yuzhuo},
+  journal={arXiv preprint arXiv:2109.10498},
+  year={2021}
+}
 ```
