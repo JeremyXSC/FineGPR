@@ -46,10 +46,10 @@ For FineGPR (for details of the pervious related work, please refer to the [GPR 
 ## Link of the Dataset
 ### Data of FineGPR for Viewpoint Analysis
 #### A small subset of FineGPR can be downloaded from the following links:<br>
+* SJTU Yun Drive: 
+	* [Download Link](https://jbox.sjtu.edu.cn/l/E1HTsw) password: qbdg
 * Baidu Yun Drive: 
-	* Coming soon [link]()
-* Google Drive: 
-	* Coming soon [link]()
+	* [Download Link](https://pan.baidu.com/s/1V7SMtbxA_k5D_hItqI4xYg) password: wp3p
 
 
 #### Directories & Files of images
@@ -141,3 +141,6 @@ If you use our FineGPR dataset for your research, please cite our [paper](https:
   year={2021}
 }
 ```
+
+For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
+xiangsuncheng17@sjtu.edu.cn
