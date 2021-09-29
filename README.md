@@ -19,11 +19,18 @@ The distributions of attributes at the identity level on FineGPR. The left figur
 attribute. The middle and right pies illustrate the distribution of the colors of upper-body and low-body clothes respectively.
 <img src='images/attribute.png'/>
 
+Some visual exemplars with ID-level pedestrian attributes in the proposed FineGPR dataset, such as Wear short
+sleeve , Wear dress, Wear hat, Carry bag, etc.
+<img src='images/attribute1.png'/>
+
 </div> 
 
 ## Table of Contents
 - [Comparison with existing datasets](#Comparision-with-existing-datasets)
 - [Link of the Dataset](#Link-of-the-Dataset)
+- [Method](#Method)
+- [Results](#Results)
+- [Extendibility](#Extendibility)
 - [Citation](#Citation)
 
 
@@ -138,13 +145,14 @@ FineGPR
 └── p09：Urban 	   
 ```
 ****
-
+## Method
 The two-stage pipeline AOST to learn attribute distribution of target domain. Firstly, we learn attribute distribution
 of real domain on the basis of XGBoost & PSO learning system. Secondly, we perform style transfer to enhance the reality of
 optimal dataset. Finally, the transferred data are adopted for downstream re-ID task.
 <img src='images/aost.png'/>
 
 ****
+## Results
 Performance comparison with existing Real and Synthetic datasets on Market-1501, DukeMTMC-reID and CUHK03,
 respectively. Our re-ID baseline system is built only
 with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells and whistles
@@ -156,6 +164,12 @@ with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells
 - [2] Bag of tricks and a strong baseline for deep person re-identification. CVPRW 2019.
 
 ****
+
+## Extendibility
+Accompanied with our FineGPR, we also provide some human body masks (Middle) and keypoint locations (Bottom) of all characters during the annotation. We hope that our synthetic dataset FineGPR can not only contribute a lot to the development of generalizable person re-ID, but also advance the research of other computer vision tasks, such as human part segmentation and pose estimation.
+<img src='images/seg_pose.png'/>
+
+</div> 
 
 ## Citation
 If you use our FineGPR dataset for your research, please cite our [paper](https://arxiv.org/pdf/2109.10498.pdf).
