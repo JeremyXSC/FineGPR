@@ -144,7 +144,8 @@ with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells
 
 ### References
 
-- [1] Bag of tricks and a strong baseline for deep person re-identification. CVPRW 2019.
+- [1] Image-image domain adaptation with preserved self-similarity and domain-dissimilarity for person re-identification. CVPR 2018.
+- [2] Bag of tricks and a strong baseline for deep person re-identification. CVPRW 2019.
 
 ****
 
