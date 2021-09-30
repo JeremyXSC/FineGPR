@@ -49,7 +49,6 @@ For FineGPR (for details of the pervious related work, please refer to the our [
 | [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421) | 1,467 (✘) |   14,096   |   2   |   -   |   -   |   -   |  low  |
 | [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) | 1,404 (✔) |   36,411   |   8   |   -   |   -   |   -   |  low   
 | [MSMT17](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf) | 4,101 (✘) |   126,441   |   15   |   -   |   -   |   -   |  vary  |  
-|--------------|---------|------|------|----------|--------------|--------------|--------------|
 | [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 (✘) |   100,000   |   250   |   -   |   -   |   -   |  -  |
 | [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 (✘) |   1,680,000   |   100   |   -   |   140   |   -   |  -  |
 | [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 (✘) |   273,456   |   6   |   -   |   -   |   6   |  vary  | 
