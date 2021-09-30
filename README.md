@@ -39,7 +39,7 @@ sleeve , Wear dress, Wear hat, Carry bag, etc.
 ****
 ## Comparison with existing datasets 
 ### Some Mainstream Datasets for Person Re-Identification
-For FineGPR (for details of the pervious related work, please refer to the [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
+For FineGPR (for details of the pervious related work, please refer to the our [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
 
 <center>
 
@@ -157,7 +157,7 @@ optimal dataset. Finally, the transferred data are adopted for downstream re-ID 
 ## Results
 Performance comparison with existing Real and Synthetic datasets on Market-1501, DukeMTMC-reID and CUHK03,
 respectively. Our re-ID baseline system is built only
-with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells and whistles
+with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells and whistles.
 <img src='images/result.png'/>
 
 ### References
@@ -168,7 +168,7 @@ with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells
 ****
 
 ## Extendibility
-Accompanied with our FineGPR, we also provide some human body masks (Middle) and keypoint locations (Bottom) of all characters during the annotation. We hope that our synthetic dataset FineGPR can not only contribute a lot to the development of generalizable person re-ID, but also advance the research of other computer vision tasks, such as human part segmentation and pose estimation.
+Accompanied with our FineGPR, we also provide some human body masks (Middle) and keypoint locations (Bottom) of all characters during the annotation. We hope that our synthetic dataset FineGPR can not only contribute a lot to the development of generalizable person re-ID, but also advance the research of other computer vision tasks, such as human part segmentation and pose estimation. 
 <img src='images/seg_pose.png'/>
 
 </div> 
