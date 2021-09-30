@@ -34,14 +34,17 @@ Our FineGPR dataset provides fine-grained and accurately configurable annotation
 7 different kinds of weathers, 7 different kinds of illuminations, and 9 different kinds of backgrounds.
 <img src='images/FineGPR.png'/>
 
+### Viewpoint
 Definition of different viewpoints. Viewpoints of one identity are sampled at an interval of 10°, e.g. 0°-80° denotes 
 that a person has 9 different angles in total.
 <img src='images/viewpoint.png'/>
 
+### Weather and Illumination
 The exemplars of different weather distribution (left) and illumination distribution (right) from the proposed FineGPR
 dataset.
 <img src='images/wea_ill.png'/>
 
+### Attributes at the Identity Level
 The distributions of attributes at the identity level on FineGPR. The left figure shows the numbers of IDs for each
 attribute. The middle and right pies illustrate the distribution of the colors of upper-body and low-body clothes respectively.
 <img src='images/attribute.png'/>
@@ -61,7 +64,7 @@ For FineGPR (for details of the pervious related work, please refer to the our [
 <center>
 
 | dataset      | IDs (ID-Attributes)    | boxs | cams | weathers | illumination | scene | resolution |
-|--------------|---------|------|------|----------|--------------|--------------|--------------|
+|----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490) | 1,501 (✔) |   32,668   |   6   |   -   |   -   |   -   |  low  |
 | [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421) | 1,467 (✘) |   14,096   |   2   |   -   |   -   |   -   |  low  |
 | [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) | 1,404 (✔) |   36,411   |   8   |   -   |   -   |   -   |  low   
