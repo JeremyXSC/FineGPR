@@ -90,31 +90,30 @@ For FineGPR (for details of the pervious related work, please refer to the our [
 
 #### Directories & Files of images
 ```shell
-FineGPR
-├── 0001/ # this number is coresponds with the IDs of different images.
-│   ├── 0001_c01_w01_l01_p01.jpg  
-│   ├── 0001_c01_w01_l02_p01.jpg
-│   ├── 0001_c01_w01_l03_p01.jpg	   
+FineGPR_Dataset 
+├── FineGPR/   # This file is our original dataset, we provide the samples of ID=0001 and ID=0003 in this file folder.
+│   ├── 0001
+│   │   ├── 0001_c01_w01_l01_p01.jpg 
+│   │	├── 0001_c01_w01_l02_p01.jpg  
+│   │   ├── 0001_c01_w01_l03_p01.jpg
+│   │   └── ...
+│   ├── 0003/
+│   │   ├── 0003_c01_w01_l01_p06.jpg  
+│   │   ├── 0003_c01_w01_l02_p06.jpg
+│   │   ├── 0003_c01_w01_l03_p06.jpg	   
+│   │   └── ...
 │   └── ...
-├── 0003/
-│   ├── 0003_c01_w01_l01_p06.jpg  
-│   ├── 0003_c01_w01_l02_p06.jpg
-│   ├── 0003_c01_w01_l03_p06.jpg	   
+├── FineGPR_subset   # This file is the subset of FineGPR dataset, each Identity contains 4 images. 
+│   ├── 0001_c01_w03_l05_p03.jpg 
+│   ├── 0001_c10_w03_l05_p03.jpg
+│   ├── 0001_c19_w03_l05_p03.jpg
+│   ├── 0001_c28_w03_l05_p03.jpg
+│   ├── 0003_c01_w03_l05_p08.jpg 
+│   ├── 0003_c10_w03_l05_p08.jpg
+│   ├── 0003_c19_w03_l05_p08.jpg
+│   ├── 0003_c28_w03_l05_p08.jpg  
 │   └── ...
-└── ...
-```
-```shell
-FineGPR_subset
-├── 0001_c01_w03_l05_p03.jpg  
-├── 0001_c10_w03_l05_p03.jpg
-├── 0001_c19_w03_l05_p03.jpg
-├── 0001_c28_w03_l05_p03.jpg
-├── 0003_c01_w03_l05_p08.jpg  
-├── 0003_c10_w03_l05_p08.jpg
-├── 0003_c19_w03_l05_p08.jpg
-├── 0003_c28_w03_l05_p08.jpg     
-└── ...
-README.md
+└── README.md   # Readme file
 ```
 
 
