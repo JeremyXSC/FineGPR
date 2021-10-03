@@ -71,10 +71,10 @@ For FineGPR (for details of the pervious related work, please refer to the our [
 | [MSMT17](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf) | 4,101 (✘) |   126,441   |   15   |   -   |   -   |   -   |  vary  |  
 | [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 (✘) |   100,000   |   250   |   -   |   -   |   -   |  -  |
 | [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 (✘) |   1,680,000   |   100   |   -   |   140   |   -   |  -  |
-| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 (✘) |   273,456   |   6   |   -   |   -   |   6   |  vary  | 
+| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 (✘) |   273,456   |   6   |   -   |   -   |   1   |  vary  | 
 | [Unreal](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_UnrealPerson_An_Adaptive_Pipeline_Towards_Costless_Person_Re-Identification_CVPR_2021_paper.pdf) | 3,000 (✘) |   120,000   |   34   |   -   |   -   |   1   |  low  | 
-| [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 (✘) |   1,801,816   |   19   |   -   |   6   |   11   |  low  | 
-| [FineGPR]() |   1150 (✔)   |   2,028,600   |   36   |   7   |   7   |   9   |  high  | 
+| [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 (✘) |   1,801,816   |   19   |   -   |   -   |   4   |  low  | 
+| [FineGPR](https://arxiv.org/pdf/2109.10498.pdf) |   1150 (✔)   |   2,028,600   |   36   |   7   |   7   |   9   |  high  | 
 </center>
 
 ****
