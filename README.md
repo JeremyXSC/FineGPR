@@ -15,6 +15,10 @@ AOST outperforms (or is on par with) existing real and synthetic datasets, which
 proves the proverbial less-is-more principle. We hope this
 fine-grained dataset could advance research towards re-ID in real scenarios.
 
+##:fire: NEWS :fire:
+- [10/2021] :boom: **The FineGPR-Caption dataset is coming!**
+- [09/2021] :boom: **The fine-grained caption dataset FineGPR is released!** Please note that this fine-grained FineGPR dataset can be only used for research purpose.
+
 ****
 ## Table of Contents
 - [FineGPR Introduction](#FineGPR-Introduction)
@@ -23,6 +27,7 @@ fine-grained dataset could advance research towards re-ID in real scenarios.
 - [Method](#Method)
 - [Results](#Results)
 - [Extendibility](#Extendibility)
+- [FineGPR-Caption dataset](#FineGPR-Caption-dataset)
 - [Citation](#Citation)
 
 ****
