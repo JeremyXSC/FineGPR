@@ -239,7 +239,7 @@ Permissions of this strong copyleft license (GNU General Public License v3.0) ar
 ****
 
 ## Acknowledgements
-We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Yuze Fang](https://github.com/yuzefang96), [Mingye Xie](https://github.com/MyronXie), [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
+We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://github.com/MyronXie), [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
 
 ****
 
