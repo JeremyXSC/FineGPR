@@ -9,13 +9,13 @@ fully exploit the potential of FineGPR and promote the efficient training from m
 
 <img src='images/FineGPR_video.png'/>
 
-[**Video Sample**](https://www.youtube.com/watch?v=toR_73U9yLs)  :arrow_forward:
+[**[Paper]**](https://arxiv.org/pdf/2109.10498.pdf)   [**[Video Sample]**](https://www.youtube.com/watch?v=toR_73U9yLs)   [**[Related Project]**](https://JeremyXSC.github.io/GPR/)   
 
 </div> 
 
 ****
 ## :fire: NEWS :fire:
-- [10/2021] **📣The first FineGPR-Caption dataset is coming !**
+- [10/2021] **📣The first FineGPR-Caption dataset involving human describing event is coming !**
 - [09/2021] **📣The fine-grained caption dataset FineGPR is released !** Please note that this fine-grained FineGPR dataset can be only used for research purpose.
 
 ****
@@ -45,7 +45,7 @@ Our FineGPR dataset provides fine-grained and accurately configurable annotation
 Definition of different viewpoints. Viewpoints of one identity are sampled at an interval of 10°, e.g. 0°-80° denotes that a person has 9 different angles in total.
 <img src='images/viewpoint.png'/>
 
-### Weather🌨 and Illumination🌟
+### Weather🌨 and Illumination🎇
 The exemplars of different weather distribution (left) and illumination distribution (right) from the proposed FineGPR dataset.
 <img src='images/wea_ill.png'/>
 
@@ -62,7 +62,7 @@ Some visual exemplars with ID-level pedestrian attributes in the proposed FineGP
 ****
 ## Comparison with existing datasets 
 ### Some Mainstream Datasets for Person Re-Identification
-For FineGPR (for details of the pervious related work, please refer to the our [GPR Homepage](https://JeremyXSC.github.io/GPR/)) :
+For FineGPR (for details of the pervious related work, please refer to the our [GPR Homepage](https://JeremyXSC.github.io/GPR/)) 🔎:
 
 <center>
 
@@ -190,7 +190,7 @@ FineGPR
 
 ****
 ## Results
-Performance comparison with existing Real and Synthetic datasets on Market-1501, DukeMTMC-reID and CUHK03, respectively. Our re-ID baseline system is built only with commonly used softmax cross-entropy loss on vanilla ResNet-50 with no bells and whistles.
+Performance comparison with existing Real and Synthetic datasets on [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490), [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) and [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421), respectively. 
 <img src='images/result.png'/>
 
 ### References
@@ -207,8 +207,7 @@ Accompanied with our FineGPR, we also provide some human body masks (Middle) and
 </div> 
 
 ## FineGPR-Caption dataset
-On the basis of FineGPR, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based
-pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newlyconstructed FineGPR-Caption dataset.
+On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-Caption dataset.
 <img src='images/FineGPR_caption.png'/>
 
 </div> 
@@ -239,7 +238,7 @@ Permissions of this strong copyleft license (GNU General Public License v3.0) ar
 ****
 
 ## Acknowledgements
-We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://github.com/MyronXie), [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
+This research was supported by the National Natural Science Foundation of China under Project (Grant No. 61977045). We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://github.com/MyronXie), [Guanjie You](https://github.com/YGJsGitHub), [Binjie Yan](https://github.com/ybj-catherine) for insightful feedback and discussion.
 
 ****
 
