@@ -247,6 +247,4 @@ This research was supported by the National Natural Science Foundation of China 
 For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
 xiangsuncheng17@sjtu.edu.cn
 
-## Related Repos
-1. [Multiple Co-teaching Network](https://github.com/JeremyXSC/MCN-MT) ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/MCN-MT.svg?style=flat&label=Star)
-2. [Attrbiute Analysis in Person Re-ID](https://github.com/JeremyXSC/GPR) ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/GPR.svg?style=flat&label=Star)
+
