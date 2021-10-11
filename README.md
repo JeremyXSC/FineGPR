@@ -5,6 +5,7 @@
 ## Overview
 In this paper, we construct and label a large-scale synthetic person dataset named FineGPR with fine-grained attribute distribution. Moreover, aiming to
 fully exploit the potential of FineGPR and promote the efficient training from millions of synthetic data, we propose an attribute analysis pipeline AOST to learn attribute distribution in target domain, then apply style transfer network to eliminate the gap between synthetic and real-world data and thus is freely deployed to new scenarios. Experiments conducted on benchmarks demonstrate that FineGPR with AOST outperforms (or is on par with) existing real and synthetic datasets, which suggests its feasibility for re-ID and proves the proverbial less-is-more principle. We hope this fine-grained dataset could advance research towards re-ID in real scenarios.
+
 ****
 
 <img src='images/FineGPR_video.png'/>
@@ -15,8 +16,11 @@ fully exploit the potential of FineGPR and promote the efficient training from m
 
 ****
 ## :fire: NEWS :fire:
-- [10/2021] **📣The first FineGPR-Caption dataset involving human describing event is coming !**
-- [09/2021] **📣The fine-grained caption dataset FineGPR is released !** Please note that this fine-grained FineGPR dataset can be only used for research purpose.
+- [10/2021] **📣The first FineGPR-C caption dataset involving human describing event is coming !**😀
+
+- [09/2021] **📣The large-scale synthetic person dataset FineGPR with fine-grained attribute distribution is released !** 😊
+
+  Please note that this fine-grained FineGPR dataset can be only used for research purpose.⚠️⚠️⚠️
 
 ****
 ## Table of Contents👀
@@ -62,7 +66,7 @@ Some visual exemplars with ID-level pedestrian attributes in the proposed FineGP
 ****
 ## Comparison with existing datasets 
 ### Some Mainstream Datasets for Person Re-Identification
-For FineGPR (for details of the pervious related work, please refer to the our [GPR Homepage](https://JeremyXSC.github.io/GPR/)) 🔎:
+Forrelate FineGPR (details of the previous related work, please refer to the our Homepage [GPR](https://JeremyXSC.github.io/GPR/)🔎:
 
 <center>
 
@@ -206,8 +210,8 @@ Accompanied with our FineGPR, we also provide some human body masks (Middle) and
 
 </div> 
 
-## FineGPR-Caption dataset
-On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-Caption dataset.
+## FineGPR-C caption dataset
+On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-C caption dataset.
 <img src='images/FineGPR_caption.png'/>
 
 </div> 
@@ -230,8 +234,8 @@ Our task and dataset were created with careful attention to ethical questions, w
 ****
 
 ## LICENSE
-- The FineGPR Dataset and FineGPR-Caption (FineGPR-C) is made available for non-commercial purposes only.
-- You will not, directly or indirectly, reproduce, use, or convey the FineGPR or FineGPR-Caption Dataset or any Content, or any work product or data derived therefrom, for commercial purposes.
+- The FineGPR Dataset and FineGPR-C caption is made available for non-commercial purposes only.
+- You will not, directly or indirectly, reproduce, use, or convey the FineGPR  dataset and FineGPR-C caption dataset or any Content, or any work product or data derived therefrom, for commercial purposes.
 
 Permissions of this strong copyleft license (GNU General Public License v3.0) are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
@@ -244,4 +248,7 @@ This research was supported by the National Natural Science Foundation of China 
 
 For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
 xiangsuncheng17@sjtu.edu.cn
+
+## Related Repos
+1. [Multiple Co-teaching Network](https://github.com/JeremyXSC/MCN-MT) ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/MCN-MT.svg?style=flat&label=Star)
 
