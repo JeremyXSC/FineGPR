@@ -16,11 +16,9 @@ fully exploit the potential of FineGPR and promote the efficient training from m
 
 ****
 ## :fire: NEWS :fire:
-- [10/2021] **📣The first FineGPR-C caption dataset involving human describing event is coming !**😀
+- [10/2021] **📣The first FineGPR-C caption dataset involving human describing event is coming !**
 
-- [09/2021] **📣The large-scale synthetic person dataset FineGPR with fine-grained attribute distribution is released !** 😊
-
-  Please note that this fine-grained FineGPR dataset can be only used for research purpose.⚠️⚠️⚠️
+- [09/2021] **📣The large-scale synthetic person dataset FineGPR with fine-grained attribute distribution is released !** 
 
 ****
 ## Table of Contents👀
