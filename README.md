@@ -64,7 +64,7 @@ Some visual exemplars with ID-level pedestrian attributes in the proposed FineGP
 ****
 ## Comparison with existing datasets 
 ### Some Mainstream Datasets for Person Re-Identification
-Forrelate FineGPR (details of the previous related work, please refer to the our Homepage [GPR](https://JeremyXSC.github.io/GPR/)🔎:
+For related FineGPR dataset (details of the previous related work, please refer to the our homepage [GPR](https://JeremyXSC.github.io/GPR/)🔎:
 
 <center>
 
@@ -80,7 +80,7 @@ Forrelate FineGPR (details of the previous related work, please refer to the our
 | [Unreal](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_UnrealPerson_An_Adaptive_Pipeline_Towards_Costless_Person_Re-Identification_CVPR_2021_paper.pdf) | 3,000 (❌) |   120,000   |   34   |   -   |   -   |   1   |  low  |
 | [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 (❌) |   1,801,816   |   19   |   -   |   -   |   4   |  low  |
 | [FineGPR](https://arxiv.org/pdf/2109.10498.pdf) |   1150 (✔️)   |   2,028,600   |   36   |   7   |   7   |   9   |  high  |
-|</center>||||||||
+</center>
 
 ****
 
@@ -240,7 +240,7 @@ Permissions of this strong copyleft license (GNU General Public License v3.0) ar
 ****
 
 ## Acknowledgements
-This research was supported by the National Natural Science Foundation of China under Project (Grant No. 61977045). We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://myronxie.github.io/), [Guanjie You](https://github.com/YGJsGitHub), [Binjie Yan](https://github.com/ybj-catherine) for insightful feedback and discussion.
+This research was supported by the National Natural Science Foundation of China under Project (Grant No. 61977045). We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://myronxie.github.io/) and [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
 
 ****
 
@@ -249,4 +249,4 @@ xiangsuncheng17@sjtu.edu.cn
 
 ## Related Repos
 1. [Multiple Co-teaching Network](https://github.com/JeremyXSC/MCN-MT) ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/MCN-MT.svg?style=flat&label=Star)
-
+2. [Attrbiute Analysis in Person Re-ID](https://github.com/JeremyXSC/GPR) ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/GPR.svg?style=flat&label=Star)
