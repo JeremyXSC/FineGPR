@@ -212,6 +212,10 @@ Accompanied with our FineGPR, we also provide some human body masks (Middle) and
 On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-C caption dataset.
 <img src='images/FineGPR_caption.png'/>
 
+A small subset of FineGPR-C caption dataset can be downloaded from the following links:<br>
+* Microsoft OneDrive:
+    * [Download Link](https://1drv.ms/t/s!AvX6fEo1OAv58wW0suo1WWQR8Z7d?e=zNu69m)
+
 </div> 
 
 ## Citation
@@ -221,6 +225,15 @@ If you use our FineGPR dataset for your research, please cite our [Paper](https:
   title={Less is More: Learning from Synthetic Data with Fine-grained Attributes for Person Re-Identification},
   author={Xiang, Suncheng and You, Guanjie and Guan, Mengyuan and Chen, Hao and Wang, Feng and Liu, Ting and Fu, Yuzhuo},
   journal={arXiv preprint arXiv:2109.10498},
+  year={2021}
+}
+```
+If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://arxiv.org/pdf/2110.05074.pdf).
+```
+@article{xiang2021vtbr,
+  title={VTBR: Semantic-based Pretraining for Person Re-Identification},
+  author={Xiang, Suncheng and Zhang, Zirui and Guan, Mengyuan and Chen, Hao and Yan, Binjie and Liu, Ting and Fu, Yuzhuo},
+  journal={arXiv preprint arXiv:2110.05074},
   year={2021}
 }
 ```
@@ -246,5 +259,4 @@ This research was supported by the National Natural Science Foundation of China 
 
 For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
 xiangsuncheng17@sjtu.edu.cn
-
 
