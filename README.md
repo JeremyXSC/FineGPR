@@ -1,10 +1,11 @@
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![Downloads](![Python](https://img.shields.io/badge/python-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
+
 # Less is More: Learning from Synthetic Data with Fine-grained Attributes for Person Re-Identification
 ### [Suncheng Xiang](https://JeremyXSC.github.io/)
 ### [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
-[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/JeremyXSC/FineGPR.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JeremyXSC/FineGPR/alerts/)
-![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
 
 ## Overview
 In this paper, we construct and label a large-scale synthetic person dataset named FineGPR with fine-grained attribute distribution. Moreover, aiming to
