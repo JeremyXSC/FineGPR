@@ -1,4 +1,4 @@
-[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
 ![Python](https://img.shields.io/badge/python-green.svg)
 ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
 
