@@ -2,6 +2,9 @@
 ### [Suncheng Xiang](https://JeremyXSC.github.io/)
 ### [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
+[![License: GPL-3](https://img.shields.io/badge/License-GPL-3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+![Build Status](https://github.com/JeremyXSC/FineGPR/workflows/Tests/badge.svg)
+
 ## Overview
 In this paper, we construct and label a large-scale synthetic person dataset named FineGPR with fine-grained attribute distribution. Moreover, aiming to
 fully exploit the potential of FineGPR and promote the efficient training from millions of synthetic data, we propose an attribute analysis pipeline AOST to learn attribute distribution in target domain, then apply style transfer network to eliminate the gap between synthetic and real-world data and thus is freely deployed to new scenarios. Experiments conducted on benchmarks demonstrate that FineGPR with AOST outperforms (or is on par with) existing real and synthetic datasets, which suggests its feasibility for re-ID and proves the proverbial less-is-more principle. We hope this fine-grained dataset could advance research towards re-ID in real scenarios.
