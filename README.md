@@ -1,5 +1,5 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-[![Downloads](![Python](https://img.shields.io/badge/python-green.svg)
+![Python](https://img.shields.io/badge/python-green.svg)
 ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
 
 # Less is More: Learning from Synthetic Data with Fine-grained Attributes for Person Re-Identification
