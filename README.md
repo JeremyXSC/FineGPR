@@ -2,8 +2,8 @@
 ### [Suncheng Xiang](https://JeremyXSC.github.io/)
 ### [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
-[![License: GPL-3](https://img.shields.io/badge/License-GPL-3-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-![Build Status](https://github.com/JeremyXSC/FineGPR/workflows/Tests/badge.svg)]
+[![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
+[![Build Status](https://travis-ci.org/JeremyXSC/FineGPR.svg?branch=master)](https://travis-ci.org/JeremyXSC/FineGPR)
 ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
 
 ## Overview
