@@ -3,7 +3,7 @@
 ### [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
 [![License: GPL](https://img.shields.io/badge/License-GPL-yellow.svg)](https://opensource.org/licenses/GPL-3.0)
-[![Build Status](https://travis-ci.org/JeremyXSC/FineGPR.svg?branch=master)](https://travis-ci.org/JeremyXSC/FineGPR)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/JeremyXSC/FineGPR.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JeremyXSC/FineGPR/alerts/)
 ![GitHub stars](https://img.shields.io/github/stars/JeremyXSC/FineGPR.svg?style=flat&label=Star)
 
 ## Overview
