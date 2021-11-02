@@ -8,8 +8,10 @@
 
 
 ## Overview
-In this paper, we construct and label a large-scale synthetic person dataset named FineGPR with fine-grained attribute distribution. Moreover, aiming to
+In this work, we construct and label a large-scale synthetic person dataset named FineGPR with fine-grained attribute distribution. Moreover, aiming to
 fully exploit the potential of FineGPR and promote the efficient training from millions of synthetic data, we propose an attribute analysis pipeline AOST to learn attribute distribution in target domain, then apply style transfer network to eliminate the gap between synthetic and real-world data and thus is freely deployed to new scenarios. Experiments conducted on benchmarks demonstrate that FineGPR with AOST outperforms (or is on par with) existing real and synthetic datasets, which suggests its feasibility for re-ID and proves the proverbial less-is-more principle. We hope this fine-grained dataset could advance research towards re-ID in real scenarios.
+
+This dataset should be used for research only. Please DO NOT distribute or use it for commercial purpose🔐. 
 
 ****
 
@@ -81,9 +83,9 @@ For related FineGPR dataset (details of the previous related work, please refer 
 | [MSMT17](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf) | 4,101 (❌) |   126,441   |   15   |   -   |   -   |   -   |  vary  |
 | [SOMAset](https://arxiv.org/pdf/1701.03153.pdf) | 50 (❌) |   100,000   |   250   |   -   |   -   |   -   |  -  |
 | [SyRI](https://arxiv.org/pdf/1804.10094.pdf) | 100 (❌) |   1,680,000   |   100   |   -   |   140   |   -   |  -  |
-| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 (❌) |   273,456   |   6   |   -   |   -   |   1   |  vary  |
-| [Unreal](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_UnrealPerson_An_Adaptive_Pipeline_Towards_Costless_Person_Re-Identification_CVPR_2021_paper.pdf) | 3,000 (❌) |   120,000   |   34   |   -   |   -   |   1   |  low  |
-| [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 (❌) |   1,801,816   |   19   |   -   |   -   |   4   |  low  |
+| [PersonX](https://arxiv.org/pdf/1812.02162.pdf) | 1,266 (❌) |   273,456   |   6   |   -   |   -   |   3   |  vary  |
+| [Unreal](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_UnrealPerson_An_Adaptive_Pipeline_Towards_Costless_Person_Re-Identification_CVPR_2021_paper.pdf) | 3,000 (❌) |   120,000   |   34   |   -   |   -   |   4   |  low  |
+| [RandPerson](https://arxiv.org/abs/2006.12774) | 8,000 (❌) |   1,801,816   |   19   |   -   |   -   |   11   |  low  |
 | [FineGPR](https://arxiv.org/pdf/2109.10498.pdf) |   1150 (✔️)   |   2,028,600   |   36   |   7   |   7   |   9   |  high  |
 </center>
 
