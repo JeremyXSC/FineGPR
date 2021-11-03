@@ -35,7 +35,7 @@ This dataset should be used for research only. Please DO NOT distribute or use i
 - [Method](#Method)
 - [Results](#Results)
 - [Extendibility](#Extendibility)
-- [FineGPR-Caption dataset](#FineGPR-Caption-dataset)
+- [FineGPR-C caption dataset](#FineGPR-C-caption-dataset)
 - [Citation](#Citation)
 - [Ethical Considerations](#Ethical-Considerations)
 - [LICENSE](#LICENSE)
@@ -260,7 +260,7 @@ Permissions of this strong copyleft license (GNU General Public License v3.0) ar
 ****
 
 ## Acknowledgements
-This research was supported by the National Natural Science Foundation of China under Project (Grant No. 61977045). We would like to thank authors of FineGPR, and FineGPR-Caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://myronxie.github.io/) and [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
+This research was supported by the National Natural Science Foundation of China under Project (Grant No. 61977045). We would like to thank authors of FineGPR, and FineGPR-C caption dataset for their work. They provide tremendous efforts in these dataset to advance the research in this field. We also appreciate [Zefang Yu](https://github.com/yuzefang96), [Mingye Xie](https://myronxie.github.io/) and [Guanjie You](https://github.com/YGJsGitHub) for insightful feedback and discussion.
 
 ****
 
