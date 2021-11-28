@@ -59,7 +59,7 @@ The exemplars of different weather distribution (left) and illumination distribu
 <img src='images/wea_ill.png'/>
 
 ### Attributes at the Identity Level⛹️‍♀️
-The distributions of attributes at the identity level on FineGPR. The left figure shows the numbers of IDs for each attribute. The middle and right pies illustrate the distribution of the colors of upper-body and low-body clothes respectively.
+We have labeled 13 different attribute annotations at the identity level: Gender (male, female); hair length (long, short); Age (teenager, adult, older); Wear glass (yes, no); Wear short sleeve (yes, no); length of top clothes (yes, no); Wear dress (yes, no); Wear boot (yes, no); Wear hat (yes, no); Carry bag (yes, no); Color of shoes (dark, light); Color of upperbody clothes (black, white, red, purple, gray, yellow, blue, green, blown); Color of lower-body clothes (black, white, red, purple, gray, yellow, blue, green, blown). The left figure shows the numbers of IDs for each attribute. The middle and right pies illustrate the distribution of the colors of upper-body and low-body clothes respectively.
 <img src='images/attribute.png'/>
 
 Some visual exemplars with ID-level pedestrian attributes in the proposed FineGPR dataset, such as Wear short sleeve , Wear dress, Wear hat, Carry bag, etc.
@@ -193,23 +193,23 @@ FineGPR
 └── p09：Urban 	   
 ```
 
-#### IU-level attribute annotations
+#### ID-level attribute annotations
 ```shell
 Gender          Hair length          Age               Wear glass     Wear short sleeve
 ├── 01：male    ├── 01：long         ├── 01：teenager  ├── 01：yes    ├── 01：yes
-└── 02：female 	└── 02：short        ├── 01：adult     └── 02：no     └── 02：no
-                                     └── 02：older
+└── 02：female  └── 02：short        ├── 01：adult     └── 02：no     └── 02：no
+                                    └── 03：older
 									 
 Length of top clothes   Wear dress       Wear boot     Wear hat      Carry bag
 ├── 01：long            ├── 01：yes      ├── 01：yes   ├── 01：yes    ├── 01：yes
-└── 02：short       	└── 02：no       └── 02：no    └── 02：no     └── 02：no
+└── 02：short           └── 02：no       └── 02：no    └── 02：no     └── 02：no
 									 
 Color of shoes          Color of upper-body clothes     Color of lower-body clothes
 ├── 01：dark            ├── 01：black  ├── 06：yellow   ├── 01：black  ├── 06：yellow
 └── 02：light           ├── 02：white  ├── 07：blue     ├── 02：white  ├── 07：blue
                         ├── 03：red    ├── 08：green    ├── 03：red    ├── 08：green
-						├── 04：purple └── 09：brown    ├── 04：purple └── 09：brown
-						└── 05：gray                    └── 05：gray
+					    ├── 04：purple └── 09：brown    ├── 04：purple └── 09：brown
+				        └── 05：gray                    └── 05：gray
 ```
 
 
