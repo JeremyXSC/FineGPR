@@ -192,6 +192,27 @@ FineGPR
 ├── p08：Wild 
 └── p09：Urban 	   
 ```
+
+#### IU-level attribute annotations
+```shell
+Gender          Hair length          Age               Wear glass     Wear short sleeve
+├── 01：male    ├── 01：long         ├── 01：teenager  ├── 01：yes    ├── 01：yes
+└── 02：female 	└── 02：short        ├── 01：adult     └── 02：no     └── 02：no
+                                     └── 02：older
+									 
+Length of top clothes   Wear dress       Wear boot     Wear hat      Carry bag
+├── 01：long            ├── 01：yes      ├── 01：yes   ├── 01：yes    ├── 01：yes
+└── 02：short       	└── 02：no       └── 02：no    └── 02：no     └── 02：no
+									 
+Color of shoes          Color of upper-body clothes     Color of lower-body clothes
+├── 01：dark            ├── 01：black  ├── 06：yellow   ├── 01：black  ├── 06：yellow
+└── 02：light           ├── 02：white  ├── 07：blue     ├── 02：white  ├── 07：blue
+                        ├── 03：red    ├── 08：green    ├── 03：red    ├── 08：green
+						├── 04：purple └── 09：brown    ├── 04：purple └── 09：brown
+						└── 05：gray                    └── 05：gray
+```
+
+
 ****
 ## Method
 💡The two-stage pipeline AOST to learn attribute distribution of target domain. Firstly, we learn attribute distribution of real domain on the basis of XGBoost & PSO learning system. Secondly, we perform style transfer to enhance the reality of optimal dataset. Finally, the transferred data are adopted for downstream re-ID task.
