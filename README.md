@@ -195,21 +195,29 @@ FineGPR
 
 #### ID-level attribute annotations
 ```shell
-Gender          Hair length          Age               Wear glass     Wear short sleeve
-├── 01：male    ├── 01：long         ├── 01：teenager  ├── 01：yes    ├── 01：yes
-└── 02：female  └── 02：short        ├── 01：adult     └── 02：no     └── 02：no
-                                    └── 03：older
+Gender               Hair length          Age                           
+├── 01：male         ├── 01：long         ├── 01：teenager └── 03：older      
+└── 02：female       └── 02：short        └── 02：adult                                                       
 									 
-Length of top clothes   Wear dress       Wear boot     Wear hat      Carry bag
-├── 01：long            ├── 01：yes      ├── 01：yes   ├── 01：yes    ├── 01：yes
-└── 02：short           └── 02：no       └── 02：no    └── 02：no     └── 02：no
+Wear glass           Wear short sleeve    Length of top clothes 
+├── 01：yes          ├── 01：yes          ├── 01：long
+└── 02：no           └── 02：no           └── 02：short
+
+Wear dress           Wear boot            Wear hat      
+├── 01：yes          ├── 01：yes          ├── 01：yes    
+└── 02：no           └── 02：no           └── 02：no     
 									 
-Color of shoes          Color of upper-body clothes     Color of lower-body clothes
-├── 01：dark            ├── 01：black  ├── 06：yellow   ├── 01：black  ├── 06：yellow
-└── 02：light           ├── 02：white  ├── 07：blue     ├── 02：white  ├── 07：blue
-                        ├── 03：red    ├── 08：green    ├── 03：red    ├── 08：green
-					    ├── 04：purple └── 09：brown    ├── 04：purple └── 09：brown
-				        └── 05：gray                    └── 05：gray
+Carry bag            Color of shoes
+├── 01：yes          ├── 01：dark
+└── 02：no           └── 02：light
+									 
+Color of upper-body clothes 
+├── 01：black  ├── 03：red     ├── 05：gray    ├── 07：blue  └── 09：brown
+└── 02：white  └── 04：purple  └── 06：yellow  └── 08：green  
+									 
+Color of lower-body clothes
+├── 01：black  ├── 03：red     ├── 05：gray    ├── 07：blue  └── 09：brown
+└── 02：white  └── 04：purple  └── 06：yellow  └── 08：green 
 ```
 
 
