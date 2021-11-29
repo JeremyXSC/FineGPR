@@ -276,7 +276,8 @@ If you do think this FineGPR-C caption dataset is useful and have used it in you
 ****
 
 ## Ethical Considerations
-Our task and dataset were created with careful attention to ethical questions, which we encountered throughout our work. Access to our dataset will be provided for research purposes only and with restrictions on redistribution. Additionally, as we filtered out the sensitive attribute name in our fine-grained attribute annotation, our dataset cannot be easily repurposed for unintended tasks. Importantly, we are very cautious of human-annotation procedure of large scale datasets towards the social and ethical implications. Furthermore, we do not consider the datasets for developing non-research systems without further processing or augmentation. We hope this fine-grained dataset will shed light into potential tasks for the research community to move forward.
+Our task and dataset were created with careful attention to ethical questions, which we encountered throughout our work. Access to our dataset will be provided for research purposes only and with restrictions on redistribution. Furthermore, we are very cautious of human-annotation procedure of large scale datasets to avoid the social and ethical implications. 
+As for re-ID system, governments and officials must establish strict regulations to control the usage of this technology since it mainly relies on (not all) surveillance data. Motivated by this, we do not consider the datasets for developing non-research systems without further professional processing or augmentation.
 
 ****
 
