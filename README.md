@@ -101,6 +101,11 @@ For related FineGPR dataset (details of the previous related work, please refer 
 
 * Microsoft OneDrive:
     * [Download Link](https://1drv.ms/u/s!AvX6fEo1OAv5sz448xpinu8k6rdU?e=kqmQ97)
+	
+#### A full version of FineGPR can be downloaded from the following links:<br>
+* SJTU Yun Drive: 
+	* [Download Link](https://jbox.sjtu.edu.cn/l/N1ynlf) password: xdut
+
 
 #### Directories & Files of images
 ```shell
