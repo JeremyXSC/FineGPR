@@ -105,6 +105,8 @@ For related FineGPR dataset (details of the previous related work, please refer 
 #### A full version of FineGPR can be downloaded from the following links:<br>
 * SJTU Yun Drive: 
 	* [Download Link](https://jbox.sjtu.edu.cn/l/E1Eh68) password: fmqw
+* Baidu Yun Drive: 
+	* [Download Link](https://pan.baidu.com/s/1z9oVkOFAuG15RKt3Wl9uTQ) password: 7vec
 
 
 #### Directories & Files of images
