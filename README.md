@@ -302,5 +302,5 @@ This research was supported by the National Natural Science Foundation of China 
 ****
 
 For further questions and suggestions about our datasets and methods, please feel free to contact Suncheng Xiang:
-xiangsuncheng17@sjtu.edu.cn
+xiangsuncheng17@sjtu.edu.cn.
 
