@@ -23,6 +23,8 @@ This dataset should be used for research only. Please DO NOT distribute or use i
 
 ****
 ## :fire: NEWS :fire:
+- [10/2022] **📣The full version of FineGPR-C caption dataset involving human describing event is released !**
+
 - [10/2021] **📣The first FineGPR-C caption dataset involving human describing event is coming !**
 
 - [09/2021] **📣The large-scale synthetic person dataset FineGPR with fine-grained attribute distribution is released !** 
@@ -92,8 +94,9 @@ For related FineGPR dataset (details of the previous related work, please refer 
 ****
 
 ## Link of the Dataset
-### Data of FineGPR for Viewpoint Analysis
+### Data of FineGPR for Attribute Analysis
 #### A small subset of FineGPR can be downloaded from the following links:<br>
+
 * SJTU Yun Drive: 
 	* [Download Link](https://jbox.sjtu.edu.cn/l/E1HTsw) password: qbdg
 * Baidu Yun Drive: 
@@ -249,15 +252,21 @@ Performance comparison with existing Real and Synthetic datasets on [Market-1501
 Accompanied with our FineGPR, we also provide some human body masks (Middle) and keypoint locations (Bottom) of all characters during the annotation. We hope that our synthetic dataset FineGPR can not only contribute a lot to the development of generalizable person re-ID, but also advance the research of other computer vision tasks, such as human part segmentation and pose estimation. 
 <img src='images/seg_pose.png'/>
 
-</div> 
+<div> 
 
 ## FineGPR-C caption dataset
 On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-C caption dataset.
 <img src='images/FineGPR_caption.png'/>
 
-A small subset of FineGPR-C caption dataset can be downloaded from the following links:<br>
+### Data of FineGPR-C caption dataset for Attribute Analysis
+
+#### A small subset of FineGPR-C caption dataset can be downloaded from the following links:<br>
 * Microsoft OneDrive:
     * [Download Link](https://1drv.ms/t/s!AvX6fEo1OAv58wW0suo1WWQR8Z7d?e=zNu69m)
+	
+#### A full version of FineGPR-C caption dataset can be downloaded from the following links:<br>
+* Microsoft OneDrive:
+    * [Download Link](https://1drv.ms/u/s!AvX6fEo1OAv58xVg8Qzp9Wp_VDm-?e=eCfVWG)
 
 </div> 
 
@@ -289,7 +298,7 @@ As for re-ID system, governments and officials must establish strict regulations
 ****
 
 ## LICENSE
-- The FineGPR Dataset and FineGPR-C caption is made available for non-commercial purposes only.
+- The FineGPR Dataset and FineGPR-C caption are made available for non-commercial purposes only.
 - You will not, directly or indirectly, reproduce, use, or convey the FineGPR  dataset and FineGPR-C caption dataset or any Content, or any work product or data derived therefrom, for commercial purposes.
 
 Permissions of this strong copyleft license (GNU General Public License v3.0) are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
