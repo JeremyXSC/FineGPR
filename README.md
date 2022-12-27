@@ -283,8 +283,8 @@ If you use our FineGPR dataset for your research, please cite our [Paper](https:
 If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://arxiv.org/pdf/2110.05074.pdf).
 ```
 @article{xiang2021vtbr,
-  title={VTBR: Semantic-based Pretraining for Person Re-Identification},
-  author={Xiang, Suncheng and Zhang, Zirui and Guan, Mengyuan and Chen, Hao and Yan, Binjie and Liu, Ting and Fu, Yuzhuo},
+  title={Rethinking Person Re-Identification via Semantic-Based Pretraining},
+  author={Xiang, Suncheng and Gao, Jingsheng and Zhang, Zirui and Guan, Mengyuan and Yan, Binjie and Liu, Ting and Dahong Qian and Fu, Yuzhuo},
   journal={arXiv preprint arXiv:2110.05074},
   year={2021}
 }
