@@ -237,6 +237,7 @@ Color of lower-body clothes
 <img src='images/aost.png'/>
 
 downstream re-ID task.
+</div>
 downstream re-ID task.
 
 ****
