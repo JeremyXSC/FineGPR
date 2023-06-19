@@ -236,6 +236,9 @@ Color of lower-body clothes
 💡The two-stage pipeline AOST to learn attribute distribution of target domain. Firstly, we learn attribute distribution of real domain on the basis of XGBoost & PSO learning system. Secondly, we perform style transfer to enhance the reality of optimal dataset. Finally, the transferred data are adopted for downstream re-ID task.
 <img src='images/aost.png'/>
 
+downstream re-ID task.
+downstream re-ID task.
+
 ****
 ## Results
 Performance comparison with existing Real and Synthetic datasets on [Market-1501](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7410490), [DukeMTMC-reID](https://arxiv.org/pdf/1701.07717.pdf) and [CUHK03](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6909421), respectively. 
