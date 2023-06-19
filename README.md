@@ -252,7 +252,19 @@ Performance comparison with existing Real and Synthetic datasets on [Market-1501
 Accompanied with our FineGPR, we also provide some human body masks (Middle) and keypoint locations (Bottom) of all characters during the annotation. We hope that our synthetic dataset FineGPR can not only contribute a lot to the development of generalizable person re-ID, but also advance the research of other computer vision tasks, such as human part segmentation and pose estimation. 
 <img src='images/seg_pose.png'/>
 
-<div> 
+### Data of FineGPR for human body masks and keypoint locations
+
+#### A full version of FineGPR in terms of human body masks can be downloaded from the following links:<br>
+
+* Baidu Yun Drive: 
+	* [Download Link](https://pan.baidu.com/s/1Q6-RDrKybCisEK3qC_BPIg) password: ewz2
+
+#### A full version of FineGPR in terms of keypoint locations can be downloaded from the following links:<br>
+
+* Baidu Yun Drive: 
+	* [Download Link](https://pan.baidu.com/s/1ymFPC4WBOl-ys5tYyc94xw) password: xjtt
+
+</div> 
 
 ## FineGPR-C caption dataset
 On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate high-quality captions with fine-grained attribute annotations for semantic-based pretraining. To be more specific, we rearrange the different attributes as word embeddings into caption formula in the different position, and then generate semantically dense caption with high-quality description, which gives rise to our newly constructed FineGPR-C caption dataset.
