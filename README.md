@@ -298,7 +298,7 @@ If you use our FineGPR dataset for your research, please cite our [Paper](https:
   publisher={ACM New York, NY}
 }
 ```
-If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://arxiv.org/pdf/2110.05074.pdf).
+If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://dl.acm.org/doi/pdf/10.1145/3628452).
 ```
 @article{xiang2023rethinking,
   title={Rethinking Person Re-Identification via Semantic-Based Pretraining},
