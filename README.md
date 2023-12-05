@@ -285,7 +285,7 @@ On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate hig
 </div> 
 
 ## Citation
-If you use our FineGPR dataset for your research, please cite our [Paper](https://arxiv.org/pdf/2109.10498.pdf).
+If you use our FineGPR dataset for your research, please cite our [Paper](https://dl.acm.org/doi/pdf/10.1145/3588441).
 ```
 @article{xiang2023less,
   title={Less is more: Learning from synthetic data with fine-grained attributes for person re-identification},
