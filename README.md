@@ -287,20 +287,24 @@ On the basis of FineGPR dafaset, we introduce a dynamic strategy to generate hig
 ## Citation
 If you use our FineGPR dataset for your research, please cite our [Paper](https://arxiv.org/pdf/2109.10498.pdf).
 ```
-@article{xiang2021less,
-  title={Less is More: Learning from Synthetic Data with Fine-grained Attributes for Person Re-Identification},
-  author={Xiang, Suncheng and You, Guanjie and Guan, Mengyuan and Chen, Hao and Wang, Feng and Liu, Ting and Fu, Yuzhuo},
-  journal={arXiv preprint arXiv:2109.10498},
-  year={2021}
+@article{xiang2023less,
+  title={Less is more: Learning from synthetic data with fine-grained attributes for person re-identification},
+  author={Xiang, Suncheng and Qian, Dahong and Guan, Mengyuan and Yan, Binjie and Liu, Ting and Fu, Yuzhuo and You, Guanjie},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  volume={19},
+  number={5s},
+  pages={1--20},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
 If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://arxiv.org/pdf/2110.05074.pdf).
 ```
-@article{xiang2021vtbr,
+@article{xiang2023rethinking,
   title={Rethinking Person Re-Identification via Semantic-Based Pretraining},
-  author={Xiang, Suncheng and Gao, Jingsheng and Zhang, Zirui and Guan, Mengyuan and Yan, Binjie and Liu, Ting and Dahong Qian and Fu, Yuzhuo},
-  journal={arXiv preprint arXiv:2110.05074},
-  year={2021}
+  author={Xiang, Suncheng and Qian, Dahong and Gao, Jingsheng and Zhang, Zirui and Liu, Ting and Fu, Yuzhuo},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2023}
 }
 ```
 ****
