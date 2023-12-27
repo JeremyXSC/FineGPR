@@ -301,10 +301,14 @@ If you use our FineGPR dataset for your research, please cite our [Paper](https:
 If you do think this FineGPR-C caption dataset is useful and have used it in your research, please cite our [Paper](https://dl.acm.org/doi/pdf/10.1145/3628452).
 ```
 @article{xiang2023rethinking,
-  title={Rethinking Person Re-Identification via Semantic-Based Pretraining},
+  title={Rethinking person re-identification via semantic-based pretraining},
   author={Xiang, Suncheng and Qian, Dahong and Gao, Jingsheng and Zhang, Zirui and Liu, Ting and Fu, Yuzhuo},
   journal={ACM Transactions on Multimedia Computing, Communications and Applications},
-  year={2023}
+  volume={20},
+  number={3},
+  pages={1--17},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
 ****
